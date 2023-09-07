@@ -14,9 +14,6 @@ This repository contains a machine learning analysis focused on loan classificat
   - [Data](#data)
   - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
